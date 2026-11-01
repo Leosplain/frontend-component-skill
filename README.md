@@ -77,7 +77,7 @@ The script checks required files, local Markdown links, and the recorded `SKILL.
 
 ## Further reading
 
-The author tested this skill with short and detailed prompts, with other skills disabled. Read the [comparison and conversation examples](https://leosplain.com/codex-skill-prompt-vs-no-prompt-frontend/).
+The author tested this skill with short and detailed prompts, with other skills disabled. Read the [comparison and conversation examples](https://leosplain.com/codex-frontend-skill-short-vs-detailed-prompt/).
 
 ## License
 

@@ -76,7 +76,7 @@ python3 scripts/validate.py
 
 ## 延伸閱讀
 
-作者關閉其他 Skill，分別用短提示詞與詳細提示詞測試本 Skill，記錄在[實測對照與對話範例](https://leosplain.com/codex-skill-prompt-vs-no-prompt-frontend/)。
+作者關閉其他 Skill，分別用短提示詞與詳細提示詞測試本 Skill，記錄在[實測對照與對話範例](https://leosplain.com/codex-frontend-skill-short-vs-detailed-prompt/)。
 
 ## 授權
 
