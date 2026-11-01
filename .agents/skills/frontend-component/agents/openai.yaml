@@ -1,0 +1,7 @@
+interface:
+  display_name: "Frontend Component"
+  short_description: "Build deliberately designed frontend sections with clear type and spacing."
+  default_prompt: "Use the frontend-component skill to create a well-structured UI section."
+
+policy:
+  allow_implicit_invocation: true
